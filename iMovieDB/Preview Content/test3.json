@@ -1,0 +1,134 @@
+[
+    {
+        "id": 99,
+        "name": "Androide 18",
+        "genre": "Femenino",
+        "race": "Androide",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/Android18.png",
+        "planet": "Tierra",
+        "description": "Androide 18 es una androide poderosa creada por el Dr. Gero. Originalmente diseñada para destruir a Goku, más tarde se convierte en una aliada y esposa de Krilin.",
+        "biography": "Androide 18, junto con su hermano Androide 17, fue creada por el Dr. Gero para eliminar a Goku. Sin embargo, después de liberarse del control de Gero, comienza a desarrollar una vida más humana. Se casa con Krilin y tienen una hija llamada Marron. En Dragon Ball GT, aunque no juega un papel principal, ayuda en la lucha contra Super 17, mostrando su lealtad y fuerza al enfrentarse a su propio hermano.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Androide 17",
+        "genre": "Masculino",
+        "race": "Androide",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/Android17.png",
+        "planet": "Tierra",
+        "description": "Androide 17 es un androide poderoso creado por el Dr. Gero, originalmente diseñado para eliminar a Goku. En Dragon Ball GT, juega un papel crucial tanto como villano como héroe.",
+        "biography": "Androide 17 fue creado por el Dr. Gero para destruir a Goku, pero después de liberarse del control de Gero, elige llevar una vida más pacífica como guardabosques. En Dragon Ball GT, una nueva versión de él, Hell Fighter 17, se fusiona con el Androide 17 original para formar a Super 17, un antagonista formidable. Sin embargo, después de ser derrotado, el Androide 17 original recupera el control y vuelve a su vida tranquila.",
+        "transformations": [
+            {
+                "id": 1,
+                "title": "Super 17",
+                "image": "",
+                "description": "Super 17 es la fusión del Androide 17 y Hell Fighter 17, combinando sus poderes en una sola forma extremadamente poderosa. Esta transformación resulta en una versión más oscura y siniestra de Androide 17, con una fuerza inmensa y capacidades de absorción de energía."
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Baby",
+        "genre": "Masculino",
+        "race": "Tsufurujin Parásito",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/Baby_artwork.png",
+        "planet": "Planeta Vegeta",
+        "description": "Baby es un parásito de la raza Tsufurujin, creado para vengar la destrucción de su raza a manos de los Saiyajin. Es uno de los principales antagonistas de Dragon Ball GT.",
+        "biography": "Baby es un ser creado a partir del ADN de los Tsufurujin, una raza exterminada por los Saiyajin. Con un odio profundo hacia los Saiyajin, busca vengar a su pueblo controlando sus cuerpos y mentes. Al llegar a la Tierra, Baby infecta y toma control de varios personajes, incluyendo a Vegeta, lo que le permite convertirse en el poderoso Baby Vegeta. Su objetivo final es reconstruir el Planeta Vegeta y eliminar a todos los Saiyajin, pero es finalmente derrotado por Goku en su forma de Super Saiyan 4.",
+        "transformations": [
+            {
+                "id": 1,
+                "title": "Baby Vegeta",
+                "image": "",
+                "description": "Baby Vegeta es la forma más poderosa de Baby, resultante de su posesión del cuerpo de Vegeta. En esta forma, Baby combina su poder con el de Vegeta, convirtiéndose en un enemigo extremadamente peligroso para Goku y los demás."
+            },
+            {
+                "id": 2,
+                "title": "Golden Great Ape Baby",
+                "image": "",
+                "description": "En esta transformación, Baby Vegeta se convierte en un Gran Simio Dorado, alcanzando un poder colosal. Esta forma es una de las más poderosas de Baby, pero finalmente es derrotado por Goku en su forma de Super Saiyan 4."
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Buu",
+        "genre": "Masculino",
+        "race": "Demonio Majin",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/Ploc.png",
+        "planet": "Desconocido",
+        "description": "Buu es un poderoso demonio Majin que fue originalmente creado por el mago Bibidi. En Dragon Ball GT, Buu aparece como un aliado y juega un papel importante en la lucha contra los villanos de la serie.",
+        "biography": "Buu es una entidad demoníaca creada por el mago Bibidi con el propósito de conquistar el universo. A lo largo de *Dragon Ball Z*, Buu pasa por varias formas y evoluciones. En *Dragon Ball GT*, Buu se muestra en una forma más tranquila y amistosa, habiendo superado su naturaleza destructiva. Aunque su papel es menor en comparación con *Dragon Ball Z*, Buu ayuda a los héroes en su lucha contra los antagonistas de la serie, demostrando que, a pesar de su pasado oscuro, puede ser un aliado valioso.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Bón",
+        "genre": "Femenino",
+        "race": "Oozaru",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/BonPara.png",
+        "planet": "Desconocido",
+        "description": "Bón es una guerrera del planeta de los Oozaru, un personaje que aparece en *Dragon Ball GT* con un papel secundario. Se destaca por su lealtad y habilidades en combate.",
+        "biography": "Bón es una guerrera de la raza Oozaru que aparece en *Dragon Ball GT* en el contexto de la batalla contra los antagonistas principales. Aunque su papel no es tan prominente como el de otros personajes, su presencia es significativa en el desarrollo de las tramas secundarias y en la lucha contra las fuerzas malignas. Su habilidad en combate y lealtad a sus aliados la convierten en una figura respetada entre sus compañeros.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Bulma",
+        "genre": "Femenino",
+        "race": "Humano",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/BulmaGT.png",
+        "planet": "Tierra",
+        "description": "Bulma es una genio de la tecnología y una de las amigas más cercanas de Goku. En *Dragon Ball GT*, sigue desempeñando un papel crucial con su inteligencia y habilidades tecnológicas.",
+        "biography": "Bulma, una de los personajes más queridos de la serie, es una inventora brillante que ha ayudado a Goku y sus amigos en numerosas ocasiones. En *Dragon Ball GT*, continúa siendo una pieza clave en la historia, contribuyendo con sus inventos y apoyo en la lucha contra los enemigos. A lo largo de la serie, Bulma se muestra como una madre amorosa y una aliada indispensable, utilizando su ingenio para ayudar a enfrentar las amenazas que surgen.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Comandante Nezi",
+        "genre": "Masculino",
+        "race": "Humano",
+        "image": "https://www.dragonballapi.com/static/images/sagagt/Nezi.png",
+        "planet": "Tierra",
+        "description": "Comandante Nezi es un personaje antagonista en *Dragon Ball GT*, conocido por su papel como líder de un ejército de secuaces y su ambición de conquistar la Tierra.",
+        "biography": "Comandante Nezi es un militar que aparece en *Dragon Ball GT* como uno de los antagonistas. Él lidera un ejército con el objetivo de tomar el control de la Tierra y establecer su propio dominio. Con una actitud autoritaria y despiadada, Nezi se enfrenta a los héroes de la serie en varias ocasiones, mostrando habilidades de combate y estrategias militares. Su presencia añade una capa de conflicto a la narrativa, representando una amenaza seria para los protagonistas.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    }
+]

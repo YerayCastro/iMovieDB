@@ -1,0 +1,98 @@
+[
+    {
+        "id": 47,
+        "name": "Androide Número 16",
+        "genre": "Masculino",
+        "race": "Cyborg",
+        "image": "https://www.dragonballapi.com/static/images/sagaz/Androide16.png",
+        "planet": "Tierra",
+        "description": "Número 16 fue creado por Gero al tomar como referencia a Gebo o «Gold» entre el Alto Mando del Listón Rojo para conmemorar a su hijo biológico que cayó en combate tras impactarle una bala enemiga.",
+        "biography": "El androide número 16 apareció por primera vez dentro de su cápsula contenedora en el Laboratorio del Dr. Gero. Desde un principio, los androides número 17 y 18 trataron de convencer al Dr. Gero de liberarlo, pero este se rehusaba, causando como consecuencia su muerte. Una vez eliminado el Dr. Gero, el androide número 17 procedió a despertar al androide número 16, pero son interrumpidos por Trunks, quien utiliza todas sus fuerzas para evitar que este sea reactivado. Sin embargo, los androides logran despertarlo fácilmente. Al despertar, el androide número 16 causó un gran miedo a todos debido a su inmenso tamaño, así como fuerza física. Sus compañeros androides intentaron persuadirlo para que eliminara a los Guerreros Z, pero el androide se rehúsa al decir que su único objetivo era Son Goku. Impresionados, los androides número 17 y 18 se marchan resignados junto a número 16.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Bobbidi",
+        "genre": "Masculino",
+        "race": "Madoshi",
+        "image": "https://www.dragonballapi.com/static/images/sagaz/Bobbidi.png",
+        "planet": "Desconocido",
+        "description": "Bobbidi, hijo de Bibbidi, es heredero de los poderes así como de las intenciones de su padre Bibbidi. Es un mago que viaja a la Tierra para recolectar energía y de este modo despertar el letargo de Majin-Boo. Aunque se desconoce la edad de este poderoso mago, su aspecto unido al hecho de que su padre ya existiera hace unos 5 millones de años nos garantiza que ha poseído una existencia muy longeva. Este malvado mago viajó hasta el planeta Tierra con la intención de liberar a Boo, un terrible ser creado por su padre y que destruyó cientos de mundos en la antigüedad hasta que el Kaio-shin del Este acabó con Bibbidi y el monstruo quedó encerrado en una esfera.",
+        "biography": "Junto con Bobbidi llegaron a la Tierra una serie de seres extraterrestres a los que había poseído, entre los cuales destacaba Darbra, a quien utilizaría como guardaespaldas personal. Majin-Boo estaba encerrado en la esfera y era necesaria una gran cantidad de energía para liberarlo. La Tierra, gracias a los saiyajin como Goku y Vegeta, se había convertido en el lugar idóneo para llevar a cabo el ritual de resurrección. Bobbidi consiguió que Spopovich y Yamu fueran sometidos bajo sus poderes y los hizo participar en el gran torneo mundial de artes marciales para robar la energía de otros. Obtuvieron la energía de Son Gohan y escaparon del torneo para entregar el Ki de Son Gohan al mago Bobbidi, siendo perseguidos por Kaio-shin del Este, Kibito, Krilin, Piccolo, Vegeta, Son Goku, Son Gohan (recuperado gracias a los poderes de Kibito) y Videl (aunque Videl al final abandonó la persecución). Mientras Videl volvía de la persecución, se encontró en el camino a Son Goten y a Trunks, ya que Goten y Trunks querían ver a un mago. Cuando Bobbidi obtiene la energía Ki de Son Gohan, asesina a Spopovich y Yamu, vertiendo la energía conseguida por ellos en la esfera que contiene a Majin-Boo. Bobbidi entonces se da cuenta de que han sido descubiertos por Goku, Gohan, Vegeta, Piccolo, Krilin, Kibito y el Kaio-shin del Este, el asesino de su padre. Decidido a vengarse de su padre, Bobbidi envía a sus subordinados Darbra, Pui Pui y Yakon. Bobbidi luego envía a Darbra de nuevo, quien pelea contra Gohan. Mientras pelean, Darbra se da cuenta de la maldad en el corazón de Vegeta. Darbra huye y le informa a Bobbidi de su hallazgo, quien entonces pone un hechizo en Vegeta, transformándolo en Majin Vegeta. Para sorpresa de Bobbidi, Majin Vegeta demuestra ser completamente desobediente, indicando que solo luchará contra Goku y no escuchará a Bobbidi. Bobbidi accede, puesto que las lesiones provocadas por Majin Vegeta proveerán a Majin-Boo de energía suficiente para despertar.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Broly",
+        "genre": "Masculino",
+        "race": "Saiyano",
+        "image": "https://www.dragonballapi.com/static/images/sagaz/Broly.png",
+        "planet": "Vegeta",
+        "description": "Sin Descripción",
+        "biography": "Sin Biografía",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "Super Saiyajin tipo A",
+                "image": "https://www.dragonballapi.com/static/images/sagaz/transformations/Super_Saiyan_A.png",
+                "description": "La primera ocasión en que Broly se transforma en Super Saiyajin tipo A es luego de que su padre, Paragus, le colocara una corona para controlar su ira y evitar que afectara sus planes. Cuando Broly se percata de eso, intenta asesinar a Paragus, pero la corona se activa e impide que lo logre. En esta transformación el pelo de Broly cambia a color azul oscuro. En general, el estado de Super Saiyajin Tipo A es incompleto y no natural; además, Broly es el único que puede tenerlo. Cuando Broly se encuentra con Goku, los recuerdos del día en que nació regresan a él y se transforma en Super Saiyajin Tipo A, al intentar la transformación en Super Saiyajin Tipo C. La ira es tal que los ataques de los guerreros Z no logran hacerle ningún daño, a pesar de que la corona no le permite demostrar todo su poder."
+            },
+            {
+                "id": 1,
+                "title": "Super Saiyajin Tipo C",
+                "image": "https://www.dragonballapi.com/static/images/sagaz/transformations/Broly_SS_Tipo_C.png",
+                "description": "Broly siempre tuvo la posibilidad de transformarse en Super Saiyajin desde pequeño, puesto que poseía un gran poder; además, era bastante agresivo. Por eso, Paragus le colocó un artefacto capaz de controlar su ira. Cuando Broly vio y escuchó a Goku, su ira se elevó al máximo. Ante la amenaza, Goku y Vegeta lo golpearon sin saber que estaban debilitando la corona que lo controlaba. El nivel de poder de Broly creció de tal manera que rompió la diadema y se transformó en Super Saiyajin Tipo C. En esta transformación Broly controla completamente su poder, pero no lo muestra al máximo, ya que es un estado previo al Super Saiyajin Legendario. La apariencia física de Broly es la del Super Saiyajin ordinario. Eso quiere decir que sus cejas y pelo se vuelven dorados, además de que su musculatura aumenta. Sin embargo, en Dragon Ball Z: Estalla el Duelo, la primera vez que adquiere este estado, su pelo es de color verde y no presenta pupilas."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Bulma",
+        "genre": "Femenino",
+        "race": "Humana",
+        "image": "https://www.dragonballapi.com/static/images/sagaz/bulma.png",
+        "planet": "Tierra",
+        "description": "Bulma (ブルマ Buruma), también conocida como la científica genio Dra. Bulma (ブルマ 博士【はかせ】 Buruma Hakase[2]) es la protagonista femenina de la serie manga Dragon Ball y sus adaptaciones al anime Dragon Ball, Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es hija del Dr. Brief y su esposa Panchy, hermana menor de Tights y una gran amiga de Son Goku con quien inicia la búsqueda de las Esferas del Dragón. En Dragon Ball Z tuvo a Trunks, primogénito de quien sería su esposo Vegeta, a su hija Bra[3] y su hijo adulto del tiempo alterno Trunks del Futuro Alternativo. Bulma es el personaje femenino más importante de la serie. Aparte de Goku, Bulma es el personaje de mayor duración única en toda la serie, que se introdujo en el primer capítulo y episodio de Dragon Ball, y mantiene un papel destacado hasta el último capítulo del manga, en Dragon Ball Super y el episodio final de Dragon Ball GT. Es la representación del personaje Xuanzang de la historia china Viaje al Oeste y fue el segundo personaje después de Goku.",
+        "biography": "Aquí Bulma observa la pelea de Goku y Piccolo contra Raditz. Al morir Goku, ella ayuda a buscar las esferas para poder revivirlo para que pudiera luchar contra los siguientes Saiyan. Después vuelve a observar como matan a Yamcha, Piccolo, Chaoz y Tenshinhan, por lo que se pone muy triste. Luego decide ir a buscar las Esferas del Dragón del planeta Namek junto con Gohan y Krilin para revivir a Piccolo y así revivir a los demás. Bulma, acompañada por Krilin y Gohan, emprende un viaje al espacio para llegar a Namek. Antes de esto llegan a un misterioso planeta donde dos alienígenas crean la ilusión de ser Namekianos para irse de ahí, pero finalmente, los vencen y logran escapar para continuar el viaje. Después de un intenso viaje por el espacio, al fin llegan a Namek donde Bulma espera en la nave mientras Krilin y Gohan van por las Esferas, pero para su mayor sorpresa, Freezer se encuentra aquí también buscando las Esferas. Bulma se queda refugiada en una cueva, en la cual instaló con ayuda de sus cápsulas, una casa con todas las comodidades necesarias. Tiempo después Bulma se enamora del soldado Zarbon con solo verlo, cuando fue a enfrentar a Vegeta. Sin embargo, su encanto se perdió al verlo transformado en su forma más fuerte y presenció junto a Krilin, la batalla entre Zarbon y Vegeta. Bulma vive variadas aventuras refugiada en las montañas, ya que ella poseía una de las Esferas. En un momento, la Esfera del Dragón gira hasta llegar al río, y Bulma tiene que aventurarse en un robot extraído de las cápsulas, para así recuperarla. A pesar de todos los tropiezos, ella queda ilesa y recupera la Esfera, sin embargo, es secuestrada por el ejército de Freezer tiempo después. Cuando Ginyu se convirtió en rana, cambia forzosamente de cuerpo con Bulma porque Bulma construyó un collar que le permitía hablar, se toca los pechos y Bulma responde con sonidos de rana, luego se propone buscar a alguien para cambiar de cuerpo que sea más fuerte, para así lograr sus objetivos, sin embargo, esto se vuelve un intento inútil y Bulma lo vuelve a su forma original.",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Butta",
+        "genre": "Masculino",
+        "race": "Butta",
+        "image": "https://www.dragonballapi.com/static/images/sagaz/Burter.png",
+        "planet": "Desconocido",
+        "description": "Como todos los integrantes de las Fuerzas Especiales Ginew, los poderes de Butta se originaron en su infancia. Su madre era muy estricta, ella lo enviaba a realizar todas las tareas de la casa y le daba palmas si llegaba tarde a la cena. Debido a esto, según sus palabras, se convirtió en el más rápido del Universo. Pronto se uniría a las Fuerzas Especiales Ginew donde se apodó el 'Huracán Azul'.",
+        "biography": "Sin Biografía",
+        "transformations": [
+            {
+                "id": 0,
+                "title": "",
+                "image": "",
+                "description": ""
+            }
+        ]
+    }
+]
